@@ -1,0 +1,13 @@
+title: Evgeny Zhurko Blog
+email: evgeny.zhurko@gmail.com
+description: ""
+baseurl: ""
+url: "http://evgenyzhurko.github.io/"
+twitter_username: 
+github_username:  evgenyzhurko
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
