@@ -65,7 +65,7 @@ def action_handler(object_id):
 
 The idea of writing a code is not so user friendly, but it can work. Another idea - visual programming - something similar to [Unreal Engine Blueprints][ue-blueprint], Google Blockly, [Python Open Source Visual Programming][ryven]. Seems we can easlily wrap all db function into blocks as they have a strictly defined interface and additionaly enable rest api request from this flow.
 
-![Data Flow Programming](/assets/dynamic-system/Data-Flow-Programming.jpg)
+![Data Flow Programming](/assets/dynamic-system/Data-Flow-Programming.JPG)
 
 Looks much simpler.
 
